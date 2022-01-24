@@ -1,3 +1,7 @@
+/* Class name GradesAverange. Which calculate numbers of students and grades and calculate the average of the total grades. 
+   First to prompt input for numbers of student then use while loop while wrong input indicated. Then goes by numbers 
+   of student in order to input grades. Once the all students grades success to input, end will prompt the average of the total grades. */
+
 import java.util.Scanner;
 
 public class GradesAverange {
