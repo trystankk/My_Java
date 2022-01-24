@@ -1,4 +1,9 @@
 //Open AssignmentQ1 class
+/* First open public class follow by public static void main string  arguments. ‘if’ to check is there’s an argument in it. 
+    Set ‘N’ as the argument and convert from string to integer. Then use ‘for’ to run the loop to execute times  
+    that ‘N’ argument has specific. ‘x’ is row and ‘y’ is column. Number of N input is how many times ‘for’ loop run 
+    and print the ‘.’ and ‘*’ accordingly from the formular.  The digits of ‘N’ should comment in the command line.*/
+
 public class ipjQ1 {
     public static void main(String [] args) {
 
