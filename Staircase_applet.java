@@ -1,3 +1,8 @@
+/* This code is to create applet. Import ‘swing.*’ to create graphical user interface. Then import applet for creating applet, 
+   follow by ‘awt.*’ to import graphic. First open public class and set integer valuables. Public void init() to allow user to input. 
+   After that ‘while’ is request to re-enter positive number if negative number received until receive positive input. Next is public 
+   void paint (Graphics g) is for draw a graphic in the applet. For loop to the formular to repeat counting form the input of stepsCount. */
+
 import javax.swing.*;           // to allow creating windows app
 import java.applet.Applet;          // import applet package
 import java.awt.*; // import graphic (link to line 15)
